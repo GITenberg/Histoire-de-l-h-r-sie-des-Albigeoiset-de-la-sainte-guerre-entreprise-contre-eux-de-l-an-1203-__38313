@@ -1,0 +1,39 @@
+_repo: Histoire-de-l-h-r-sie-des-Albigeoiset-de-la-sainte-guerre-entreprise-contre-eux-de-l-an-1203-__38313
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Petrus, Sarnensis
+    aliases:
+    - Cernay, Pierre des Vaux de
+    - Petrus, Vallis Sarnaii
+    - Petrus, Vallis Cernaii
+    - Pierre, de Vaux-Cernay
+    - Pierre, de Vaulx-Cernay
+    deathdate: 1218
+    gutenberg_agent_id: '39385'
+    url: http://www.gutenberg.org/2009/agents/39385
+    wikipedia: http://en.wikipedia.org/wiki/Peter_of_Vaux_de_Cernay
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2011-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38313'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Philip II Augustus, 1180-1223'
+- !lcsh 'Christian heresies -- France -- Languedoc -- History -- Middle Ages, 600-1500
+  -- Sources'
+- !lcsh 'Albigenses -- Sources'
+- !lcc 'BX'
+- !lcsh 'Theology -- Early works to 1800'
+title: 'Histoire de l''hérésie des Albigeois
+
+  et de la sainte guerre entreprise contre eux  de l''an 1203 à  l''an 1218'
+url: http://www.gutenberg.org/ebooks/38313
